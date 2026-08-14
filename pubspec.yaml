@@ -1,0 +1,17 @@
+name: card_game
+description: >
+  Core rule engine for an original MTG-like trading card game.
+  No life points, no attack step: creatures tap to bank a shared resource,
+  interaction happens through abilities instead of removal, and each deck
+  wins by fulfilling the victory condition cards chosen at deck-build time.
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.25.0
+  lints: ^5.0.0
