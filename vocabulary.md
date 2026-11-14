@@ -6,3 +6,4 @@
 | deck | 名詞 | ①（スライド資料の）一式、プレゼン資料 ②トランプの一組 ③（船の）甲板、（家の）デッキ | Please send me the deck before the meeting. | ビジネスでは slide deck / pitch deck の略。①の意味が多い |
 | get to know | 句動詞 | ～をよく知るようになる、～と親しくなる | We need to get to know the new system. | 「知っている」状態ではなく、知っていく過程を表す。例: We've got to get to know the deck.（資料の中身をよく把握しなきゃ） |
 | lasso | 名詞/動詞 | （名）投げ縄／（動）投げ縄で捕らえる | The cowboy threw a lasso around the calf. | 発音は /ˈlæsoʊ/（ラソウ）。比喩で「（人・資源を）うまく引き込む」の意味でも使う。IT では「なげなわ選択」ツールや統計の LASSO 回帰も指す |
+| whizbang (whiz-bang) | 形容詞/名詞 | （形）素晴らしい、一流の、派手で目を引く／（名）ものすごいもの、すごい人 | The company showed off its whizbang new software at the conference. | くだけた口語（主に米）。綴りは whiz-bang, whizz-bang, whizbang とゆれる。もとは「ヒュー、ドン」という砲弾の音から。ほめ言葉だが、やや大げさな宣伝っぽい響きもある |
