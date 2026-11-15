@@ -9,3 +9,4 @@
 | whizbang (whiz-bang) | 形容詞/名詞 | （形）素晴らしい、一流の、派手で目を引く／（名）ものすごいもの、すごい人 | The company showed off its whizbang new software at the conference. | くだけた口語（主に米）。綴りは whiz-bang, whizz-bang, whizbang とゆれる。もとは「ヒュー、ドン」という砲弾の音から。ほめ言葉だが、やや大げさな宣伝っぽい響きもある |
 | The world's your oyster | 慣用句 | あなたには無限の可能性がある、何でも思いのままだ | You've just graduated, so the world's your oyster. | oyster（牡蠣）の中に真珠があるように、世界から好きなものを取り出せる、というシェイクスピア由来の表現。This world's my oyster. ではなく your で相手を励ます言い方が一般的。主語は the world、's は is の短縮形 |
 | get cracking | 慣用句 | （急いで）さっそく取りかかる、さあ始める | If the world's my oyster, then I'd better get cracking. | 主にイギリス英語の口語。I'd better = I had better（～したほうがいい）の後ろは動詞の原形なので get が必要。元の文は get が抜けていた。get moving / get started に近い |
+| let loose | 句動詞 | ①解き放つ、自由にする ②（感情・力などを）思いきり爆発させる、羽目を外す ③（声・攻撃などを）一気に放つ | After the exam, we let loose and went out dancing. | 活用は let - let - let（原形・過去・過去分詞が同じ）。let loose on ~ で「~に対して解き放つ」。反対は hold back（抑える）。Let loose the dogs! のように目的語を間に入れる形もある |
