@@ -10,3 +10,4 @@
 | The world's your oyster | 慣用句 | あなたには無限の可能性がある、何でも思いのままだ | You've just graduated, so the world's your oyster. | oyster（牡蠣）の中に真珠があるように、世界から好きなものを取り出せる、というシェイクスピア由来の表現。This world's my oyster. ではなく your で相手を励ます言い方が一般的。主語は the world、's は is の短縮形 |
 | get cracking | 慣用句 | （急いで）さっそく取りかかる、さあ始める | If the world's my oyster, then I'd better get cracking. | 主にイギリス英語の口語。I'd better = I had better（～したほうがいい）の後ろは動詞の原形なので get が必要。元の文は get が抜けていた。get moving / get started に近い |
 | let loose | 句動詞 | ①解き放つ、自由にする ②（感情・力などを）思いきり爆発させる、羽目を外す ③（声・攻撃などを）一気に放つ | After the exam, we let loose and went out dancing. | 活用は let - let - let（原形・過去・過去分詞が同じ）。let loose on ~ で「~に対して解き放つ」。反対は hold back（抑える）。Let loose the dogs! のように目的語を間に入れる形もある |
+| prevail | 動詞 | ①勝つ、打ち勝つ ②広く行き渡る、普及している ③（prevail on/upon ~ to do で）～を説得して…させる | Justice will prevail in the end. | 発音 /prɪˈveɪl/。形容詞は prevailing（優勢な、一般的な）、prevalent（広く行きわたった）。名詞 prevalence は「普及、流行」。the prevailing wind（卓越風）のように使う |
