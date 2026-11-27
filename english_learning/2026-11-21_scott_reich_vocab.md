@@ -10,34 +10,36 @@
 
 ## 主要単語
 
-| 単語 | 意味 | 本文での使われ方 |
-|------|------|------------------|
-| renew | 再生する、立て直す | the key to **renewing** American democracy |
-| founding | 建国、創設 | we missed a **founding** |
-| creed | 信条 | the moral **creed** of equality |
-| framework | 枠組み | created the **framework** of the Republic |
-| overlook | 見落とす | something crucial … we often **overlook** |
-| possess | 持っている | citizens would naturally **possess** the virtue |
-| virtue | 徳、美徳 | the **virtue** required to govern themselves |
-| civic | 市民の | civic service program / civic belonging |
-| recite | 暗唱する、唱える | **recite** an oath |
-| oath | 誓い | recite an **oath** |
-| pledge | 誓う | they **pledged** to leave the city … greater |
-| profound | 深い | something **profound** |
-| self-executing | 自動的に機能する | Democracy is not **self-executing**. |
-| diagnose | 診断する | The day he was **diagnosed** |
-| transformative | 大きな変化をもたらす | The results were **transformative** |
-| erosion | 侵食、じわじわ崩れること | a quiet **erosion** of civic belonging |
-| polarization | 分断、二極化 | distrust, **polarization** |
-| cynical | 冷めた、皮肉な | **cynical** patriotism |
-| devote | ささげる | **devote** a year of service |
-| reciprocal | 相互の、見返りの | a **reciprocal** commitment |
-| cohort | 同期の仲間、グループ | she meets her **cohort** |
-| navigate | （難しいものを）切り抜ける、案内する | helping patients **navigate** hospitals |
-| empathy | 共感 | **empathy** is a key ingredient |
-| ingredient | 要素、材料 | a key **ingredient** of citizenship |
-| collectively | 皆で、集団として | when we **collectively** decide |
-| cast aside | 捨て去る | **cast aside** an era of division |
+※ 発音記号はアメリカ英語（IPA）
+
+| 単語 | 発音 | 意味 | 本文での使われ方 |
+|------|------|------|------------------|
+| renew | /rɪˈnuː/ | 再生する、立て直す | the key to **renewing** American democracy |
+| founding | /ˈfaʊndɪŋ/ | 建国、創設 | we missed a **founding** |
+| creed | /kriːd/ | 信条 | the moral **creed** of equality |
+| framework | /ˈfreɪmwɝːk/ | 枠組み | created the **framework** of the Republic |
+| overlook | /ˌoʊvɚˈlʊk/ | 見落とす | something crucial … we often **overlook** |
+| possess | /pəˈzes/ | 持っている | citizens would naturally **possess** the virtue |
+| virtue | /ˈvɝːtʃuː/ | 徳、美徳 | the **virtue** required to govern themselves |
+| civic | /ˈsɪvɪk/ | 市民の | civic service program / civic belonging |
+| recite | /rɪˈsaɪt/ | 暗唱する、唱える | **recite** an oath |
+| oath | /oʊθ/ | 誓い | recite an **oath** |
+| pledge | /pledʒ/ | 誓う | they **pledged** to leave the city … greater |
+| profound | /prəˈfaʊnd/ | 深い | something **profound** |
+| self-executing | /ˌself ˈeksɪkjuːtɪŋ/ | 自動的に機能する | Democracy is not **self-executing**. |
+| diagnose | /ˌdaɪəɡˈnoʊs/ | 診断する | The day he was **diagnosed** |
+| transformative | /trænsˈfɔːrmətɪv/ | 大きな変化をもたらす | The results were **transformative** |
+| erosion | /ɪˈroʊʒən/ | 侵食、じわじわ崩れること | a quiet **erosion** of civic belonging |
+| polarization | /ˌpoʊlərəˈzeɪʃən/ | 分断、二極化 | distrust, **polarization** |
+| cynical | /ˈsɪnɪkəl/ | 冷めた、皮肉な | **cynical** patriotism |
+| devote | /dɪˈvoʊt/ | ささげる | **devote** a year of service |
+| reciprocal | /rɪˈsɪprəkəl/ | 相互の、見返りの | a **reciprocal** commitment |
+| cohort | /ˈkoʊhɔːrt/ | 同期の仲間、グループ | she meets her **cohort** |
+| navigate | /ˈnævɪɡeɪt/ | （難しいものを）切り抜ける、案内する | helping patients **navigate** hospitals |
+| empathy | /ˈempəθi/ | 共感 | **empathy** is a key ingredient |
+| ingredient | /ɪnˈɡriːdiənt/ | 要素、材料 | a key **ingredient** of citizenship |
+| collectively | /kəˈlektɪvli/ | 皆で、集団として | when we **collectively** decide |
+| cast aside | /ˌkæst əˈsaɪd/ | 捨て去る | **cast aside** an era of division |
 
 ## 覚えたい表現
 

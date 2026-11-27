@@ -12,39 +12,41 @@
 
 ## 主要単語
 
-| 単語 | 意味 | 本文での使われ方 |
-|------|------|------------------|
-| delightful | 楽しい、愉快な | a **delightful** practice called rubber ducking |
-| overwhelm | （名）圧倒されること （動）圧倒する | We run the risk of information **overwhelm**. |
-| exacerbate | 悪化させる | that can just **exacerbate** the overwhelm |
-| cognitive | 認知の | I'm a **cognitive** scientist |
-| vast | 膨大な | **vast** repositories of knowledge |
-| repository | 貯蔵庫、宝庫 | vast **repositories** of knowledge |
-| auditory | 聴覚の | your **auditory** memories |
-| motor skills | 運動技能（体で覚えた動き） | use your **motor skills** |
-| illustrate | 例を挙げて示す | they **illustrate** the process |
-| untapped | まだ活用されていない | you have **untapped** knowledge |
-| extract | 引き出す、抽出する | how to **extract** that knowledge |
-| represent | 表す、（頭の中で）とらえる | information can be **represented** in all sorts of ways |
-| catch | （隠れた）落とし穴、難点 | There is a **catch**, though. |
-| differentiate | 区別する | what **differentiates** the most successful students |
-| peer | 同年代の人、仲間 | from their less successful **peers** |
-| enormously | 非常に | how much they learn can vary **enormously** |
-| domain | 分野、領域 | across a range of **domains** |
-| prompt | 促す | by **prompting** them to explain |
-| equivalent | 同等の | examples **equivalent** to the card with two frogs |
-| remarkable | 注目すべき、驚くべき | another **remarkable** property |
-| hint at | ほのめかす | It's one I've **hinted at** already. |
-| funnel | じょうご、漏斗雲 | produce a **funnel** |
-| phenomenon | 現象 | a **phenomenon** called the illusion of explanatory depth |
-| craft | （手間をかけて）作り上げる | to **craft** an explanation |
-| uncover | 明らかにする | we often **uncover** gaps |
-| synthesize | まとめる、統合する | getting and **synthesizing** information |
-| pervasive | 広く行き渡った | all the more **pervasive** |
-| outsource | 外部に任せる | we **outsource** the process |
-| police | 取り締まる、監視する | **policing** the boundaries |
-| insight | 洞察、深い理解 | a path through information overwhelm to **insight** |
-| eliminate | 取り除く | won't **eliminate** the need for new information |
+※ 発音記号はアメリカ英語（IPA）
+
+| 単語 | 発音 | 意味 | 本文での使われ方 |
+|------|------|------|------------------|
+| delightful | /dɪˈlaɪtfəl/ | 楽しい、愉快な | a **delightful** practice called rubber ducking |
+| overwhelm | /ˌoʊvɚˈwelm/ | （名）圧倒されること （動）圧倒する | We run the risk of information **overwhelm**. |
+| exacerbate | /ɪɡˈzæsɚbeɪt/ | 悪化させる | that can just **exacerbate** the overwhelm |
+| cognitive | /ˈkɑːɡnətɪv/ | 認知の | I'm a **cognitive** scientist |
+| vast | /væst/ | 膨大な | **vast** repositories of knowledge |
+| repository | /rɪˈpɑːzətɔːri/ | 貯蔵庫、宝庫 | vast **repositories** of knowledge |
+| auditory | /ˈɔːdɪtɔːri/ | 聴覚の | your **auditory** memories |
+| motor skills | /ˈmoʊtɚ skɪlz/ | 運動技能（体で覚えた動き） | use your **motor skills** |
+| illustrate | /ˈɪləstreɪt/ | 例を挙げて示す | they **illustrate** the process |
+| untapped | /ʌnˈtæpt/ | まだ活用されていない | you have **untapped** knowledge |
+| extract | /ɪkˈstrækt/ | 引き出す、抽出する | how to **extract** that knowledge |
+| represent | /ˌreprɪˈzent/ | 表す、（頭の中で）とらえる | information can be **represented** in all sorts of ways |
+| catch | /kætʃ/ | （隠れた）落とし穴、難点 | There is a **catch**, though. |
+| differentiate | /ˌdɪfəˈrenʃieɪt/ | 区別する | what **differentiates** the most successful students |
+| peer | /pɪr/ | 同年代の人、仲間 | from their less successful **peers** |
+| enormously | /ɪˈnɔːrməsli/ | 非常に | how much they learn can vary **enormously** |
+| domain | /doʊˈmeɪn/ | 分野、領域 | across a range of **domains** |
+| prompt | /prɑːmpt/ | 促す | by **prompting** them to explain |
+| equivalent | /ɪˈkwɪvələnt/ | 同等の | examples **equivalent** to the card with two frogs |
+| remarkable | /rɪˈmɑːrkəbəl/ | 注目すべき、驚くべき | another **remarkable** property |
+| hint at | /ˈhɪnt æt/ | ほのめかす | It's one I've **hinted at** already. |
+| funnel | /ˈfʌnəl/ | じょうご、漏斗雲 | produce a **funnel** |
+| phenomenon | /fəˈnɑːmənɑːn/ | 現象 | a **phenomenon** called the illusion of explanatory depth |
+| craft | /kræft/ | （手間をかけて）作り上げる | to **craft** an explanation |
+| uncover | /ʌnˈkʌvɚ/ | 明らかにする | we often **uncover** gaps |
+| synthesize | /ˈsɪnθəsaɪz/ | まとめる、統合する | getting and **synthesizing** information |
+| pervasive | /pɚˈveɪsɪv/ | 広く行き渡った | all the more **pervasive** |
+| outsource | /ˈaʊtsɔːrs/ | 外部に任せる | we **outsource** the process |
+| police | /pəˈliːs/ | 取り締まる、監視する | **policing** the boundaries |
+| insight | /ˈɪnsaɪt/ | 洞察、深い理解 | a path through information overwhelm to **insight** |
+| eliminate | /ɪˈlɪməneɪt/ | 取り除く | won't **eliminate** the need for new information |
 
 ## 覚えたい表現
 
